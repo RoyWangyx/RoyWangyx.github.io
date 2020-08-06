@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{research.html}, nofooter 
+= Yixuan Wang
+
+== Research Highlights
+
+=== Multiscale Modeling
+
+- Model reduction and homogenization techinques in multiscale equation, see \[[https://arxiv.org/abs/2007.07418 Exponential Convergence for Multiscale Linear Elliptic PDEs via Adaptive Edge Basis Functions]\] for example.
+
+- Numerical homegenization and application in signal processing.
+
+=== Kinetic Equations
+
+- Hermite Spectral Method as equilibrium-preserving techniques for kinetic equations, see \[[https://epubs.siam.org/doi/abs/10.1137/18M1230268 Approximation to Singular Quadratic Collision Model in Fokker-Planck-Landau Equation]\] for example.
+
+- Convergence and stability of nonlinear numerical schemes for kinetic equations.
+
+=== Sampling Methods 
+
+== Topics of Interest
+
+I have a broad spectrum of interst in problems related to applied mathematics in general. Other potential future topics related to my research/ seminar experience would include but are not limited to: Singularity in Euler equation; Optimal Transport and related mean-field methods; Signal processing; Optimal control; Random matrice theory; Quantum computing and information.
+
