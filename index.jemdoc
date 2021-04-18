@@ -2,15 +2,15 @@
 = Yixuan Wang
 
 ~~~
-{}{img_left}{bio.jpg}{photo}{150px}{200px}{}
-Incoming PhD,\n [http://www.cms.caltech.edu/ Applied \+ Computational Mathematics], \n[https://www.caltech.edu/ California Institute of Technology (Caltech)]\n 
+{}{img_left}{bio.jpg}{photo}{135px}{200px}{}
+G1 PhD,\n [http://www.cms.caltech.edu/ Applied \+ Computational Mathematics], \n[https://www.caltech.edu/ California Institute of Technology (Caltech)]\n 
 E-mail: /roywang/ \[@\] caltech \[dot\] edu, /roywangyx/ \[@\] pku \[dot\] edu \[dot\] cn.
 ~~~
 
 == About Me
-I received a B.S. degree in mathematics from [http://english.pku.edu.cn/  Peking University (PKU)], in 2020. My undergraduate supervisor is [http://dsec.pku.edu.cn/~rli/ Prof. Ruo Li]. \n
-My graduate supervisor will be [http://users.cms.caltech.edu/~hou/ Prof. Thomas Yizhao Hou]. \n
-I will matriculate remotely in Caltech and join [http://bicmr.pku.edu.cn/ BICMR] as a research assistant hosted by Prof. Ruo Li and [http://bicmr.pku.edu.cn/~zhennan/ Prof. Zhennan Zhou] at Fall 2020.
+I received a B.S. degree in mathematics /summa cum laude/ from [http://english.pku.edu.cn/  Peking University (PKU)], in 2020. My undergraduate supervisor is [http://dsec.pku.edu.cn/~rli/ Prof. Ruo Li]. \n
+My graduate supervisor is [http://users.cms.caltech.edu/~hou/ Prof. Thomas Yizhao Hou]. I am also co-advised by [http://users.cms.caltech.edu/~owhadi/ Prof. Houman Owhadi] and [http://stuart.caltech.edu/ Prof. Andrew Stuart].\n
+I matriculate remotely in Caltech and join [http://bicmr.pku.edu.cn/ BICMR] as a research assistant hosted by Prof. Ruo Li, [http://bicmr.pku.edu.cn/~zhennan/ Prof. Zhennan Zhou], and [http://bicmr.pku.edu.cn/~zhenfuwang/ Prof. Zhenfu Wang] for the Academic year 2020.
 
 == Research
 My research interests broadly lie in 
@@ -24,12 +24,12 @@ Actively looking for discussions and possible collaborations on interesting topi
 == Publications 
 . R. Li, Y.L Wang and Y.X. Wang. Approximation to Singular Quadratic Collision Model in
 Fokker-Planck-Landau Equation, SIAM Journal on Scientific Computing, 42(3), 2020, pp. B792-B815. 
-\[[https://epubs.siam.org/doi/abs/10.1137/18M1230268 paper]\]
+\[[https://epubs.siam.org/doi/abs/10.1137/18M1230268 paper], [FPL.pdf slides]\]
 . Z. Liu, S. Qian, Y. Wang, Y. Yan and T Yang. (2020) Schrödinger PCA: You Only Need Variances for
-Eigenmodes. Submitted to NeurIPS. \[[https://arxiv.org/abs/2006.04379 arxiv]\]
+Eigenmodes. Submitted to Physical Review E, under revision. \[[https://arxiv.org/abs/2006.04379 arxiv]\]
 . Y. Chen, T.Y. Hou and Y. Wang. (2020) Exponential Convergence for Multiscale Linear Elliptic PDEs
-via Adaptive Edge Basis Functions. Submitted to Multiscale Modeling and Simulation. \[[https://arxiv.org/abs/2007.07418 arxiv]\]
+via Adaptive Edge Basis Functions. To appear in Multiscale Modeling and Simulation. \[[https://arxiv.org/abs/2007.07418 arxiv]\]
 
 
 [https://scholar.google.com/citations?user=eHu9XuUAAAAJ&hl=en Google Scholar]\n
-[Yixuan_Wang_CV202008.pdf CV]
+[Yixuan_Wang_CV.pdf CV]
