@@ -9,8 +9,7 @@ E-mail: /roywang/ \[@\] caltech \[dot\] edu, /roywangyx/ \[@\] pku \[dot\] edu \
 
 == About Me
 I received a B.S. degree in mathematics /summa cum laude/ from [http://english.pku.edu.cn/  Peking University (PKU)], in 2020. My undergraduate supervisor is [http://dsec.pku.edu.cn/~rli/ Prof. Ruo Li]. \n
-My graduate supervisor is [http://users.cms.caltech.edu/~hou/ Prof. Thomas Yizhao Hou]. I am also co-advised by [http://users.cms.caltech.edu/~owhadi/ Prof. Houman Owhadi] and [http://stuart.caltech.edu/ Prof. Andrew Stuart].\n
-I matriculate remotely in Caltech and join [http://bicmr.pku.edu.cn/ BICMR] as a research assistant hosted by Prof. Ruo Li, [http://bicmr.pku.edu.cn/~zhennan/ Prof. Zhennan Zhou], and [http://bicmr.pku.edu.cn/~zhenfuwang/ Prof. Zhenfu Wang] for the Academic year 2020.
+My graduate supervisor is [http://users.cms.caltech.edu/~hou/ Prof. Thomas Yizhao Hou]. I am also co-advised by [http://users.cms.caltech.edu/~owhadi/ Prof. Houman Owhadi] and [http://stuart.caltech.edu/ Prof. Andrew Stuart].
 
 == Research
 My research interests broadly lie in 
@@ -23,12 +22,12 @@ Actively looking for discussions and possible collaborations on interesting topi
 [research.html Find out more]
 == Publications 
 . R. Li, Y.L Wang and Y.X. Wang. Approximation to Singular Quadratic Collision Model in
-Fokker-Planck-Landau Equation, SIAM Journal on Scientific Computing, 42(3), 2020, pp. B792-B815. 
+Fokker-Planck-Landau Equation,\n SIAM Journal on Scientific Computing, 42(3), 2020, pp. B792-B815. 
 \[[https://epubs.siam.org/doi/abs/10.1137/18M1230268 paper], [FPL.pdf slides]\]
-. Z. Liu, S. Qian, Y. Wang, Y. Yan and T Yang. (2020) Schrödinger PCA: You Only Need Variances for
-Eigenmodes. Submitted to Physical Review E, under revision. \[[https://arxiv.org/abs/2006.04379 arxiv]\]
-. Y. Chen, T.Y. Hou and Y. Wang. (2020) Exponential Convergence for Multiscale Linear Elliptic PDEs
-via Adaptive Edge Basis Functions. To appear in Multiscale Modeling and Simulation. \[[https://arxiv.org/abs/2007.07418 arxiv]\]
+. Z. Liu, S. Qian, Y. Wang, Y. Yan and T Yang. (2020) Schrödinger PCA: You Only Need Variances for Eigenmodes, \n submitted to Physical Review E, under revision. \[[https://arxiv.org/abs/2006.04379 arxiv], [Schrodinger_PCA.pptx slides]\]
+. Y. Chen, T.Y. Hou and Y. Wang. (2020) Exponential Convergence for Multiscale Linear Elliptic PDEs via Adaptive Edge Basis Functions, \n Multiscale Modeling and Simulation, 19(2), 2021, pp. 980–1010. 
+\[[https://epubs.siam.org/doi/abs/10.1137/20M1352922 paper]\]
+. Y. Chen, T.Y. Hou and Y. Wang. (2021) Exponentially convergent multiscale methods for high frequency heterogeneous Helmholtz equations, \n submitted to SIAM Journal on Numerical Analysis. \[[https://arxiv.org/abs/2105.04080 arxiv], [Helmholtz.pdf slides]\]
 
 
 [https://scholar.google.com/citations?user=eHu9XuUAAAAJ&hl=en Google Scholar]\n
