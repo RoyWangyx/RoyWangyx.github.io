@@ -4,7 +4,7 @@
 ~~~
 {}{img_left}{bio.jpg}{photo}{135px}{200px}{}
 G1 PhD,\n [http://www.cms.caltech.edu/ Applied \+ Computational Mathematics], \n[https://www.caltech.edu/ California Institute of Technology (Caltech)]\n 
-E-mail: /roywang/ \[@\] caltech \[dot\] edu, /roywangyx/ \[@\] pku \[dot\] edu \[dot\] cn.
+E-mail: /roywang/ \[@\] caltech \[dot\] edu.
 ~~~
 
 == About Me
@@ -24,8 +24,8 @@ Actively looking for discussions and possible collaborations on interesting topi
 . R. Li, Y.L Wang and Y.X. Wang. Approximation to Singular Quadratic Collision Model in
 Fokker-Planck-Landau Equation,\n SIAM Journal on Scientific Computing, 42(3), 2020, pp. B792-B815. 
 \[[https://epubs.siam.org/doi/abs/10.1137/18M1230268 paper], [FPL.pdf slides]\]
-. Z. Liu, S. Qian, Y. Wang, Y. Yan and T Yang. (2020) Schrödinger PCA: You Only Need Variances for Eigenmodes, \n submitted to Physical Review E, under revision. \[[https://arxiv.org/abs/2006.04379 arxiv], [Schrodinger_PCA.pptx slides]\]
-. Y. Chen, T.Y. Hou and Y. Wang. (2020) Exponential Convergence for Multiscale Linear Elliptic PDEs via Adaptive Edge Basis Functions, \n Multiscale Modeling and Simulation, 19(2), 2021, pp. 980–1010. 
+. Z. Liu, S. Qian, Y. Wang, Y. Yan and T Yang. Schrödinger principal-component analysis: On the duality between principal-component analysis \n and the Schrödinger equation, Physical Review E, 104(2), 2021, 025307. \[[https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.025307 paper], [Schrodinger_PCA.pptx slides]\]
+. Y. Chen, T.Y. Hou and Y. Wang. Exponential Convergence for Multiscale Linear Elliptic PDEs via Adaptive Edge Basis Functions, \n Multiscale Modeling and Simulation, 19(2), 2021, pp. 980–1010. 
 \[[https://epubs.siam.org/doi/abs/10.1137/20M1352922 paper]\]
 . Y. Chen, T.Y. Hou and Y. Wang. (2021) Exponentially convergent multiscale methods for high frequency heterogeneous Helmholtz equations, \n submitted to SIAM Journal on Numerical Analysis. \[[https://arxiv.org/abs/2105.04080 arxiv], [Helmholtz.pdf slides]\]
 
