@@ -3,11 +3,17 @@
 
 == Research Highlights
 
+=== Blowup of Fluid Dynamics Models
+
+- Characterization of blowup for reduced models of Euler equations.
+
+- Numerical investigation of blowup profiles using dynamic rescaling equations and neural networks.
+
 === Multiscale Modeling
 
 - Model reduction and homogenization techinques in multiscale equation, see \[[https://epubs.siam.org/doi/abs/10.1137/20M1352922 Exponential Convergence for Multiscale Linear Elliptic PDEs via Adaptive Edge Basis Functions]\],  \[[https://arxiv.org/abs/2105.04080 Exponentially convergent multiscale methods for high frequency heterogeneous Helmholtz equations]\].
 
-- Numerical homegenization and application in signal processing.
+- Numerical homogenization and application in signal processing.
 
 === Kinetic Equations
 
@@ -16,8 +22,11 @@
 - Convergence and stability of nonlinear numerical schemes for kinetic equations.
 
 === Sampling Methods 
+
+- Ensemble sampling method for inverse problems based on underdamped Langevin equation, see \[[https://arxiv.org/abs/2208.04506 Second order ensemble Langevin method for sampling and inverse problems]\].
+
 - Reduced approximation model for principal-component analysis based on operator approximation via the Schrödinger equation, see \[[https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.025307 Schrödinger principal-component analysis: On the duality between principal-component analysis and the Schrödinger equation]\].
 == Topics of Interest
 
-I have a broad spectrum of interst in problems related to applied mathematics in general. Other potential future topics related to my research/ seminar experience would include but are not limited to: Singularity in Euler equation; Optimal transport; Particle Methods, Mean-field theory, and Gradient Flow; Signal processing; Optimal control; Random matrice theory; Quantum computing and information.
+I have a broad spectrum of interest in problems related to applied mathematics in general. Other potential future topics related to my research/ seminar experience would include but are not limited to:  Optimal transport; Particle Methods, Mean-field theory, and Gradient Flow; Signal processing; Optimal control.
 
