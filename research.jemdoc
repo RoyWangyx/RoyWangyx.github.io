@@ -5,7 +5,7 @@
 
 === Blowup of Fluid Dynamics Models
 
-- Characterization of blowup for reduced models of Euler equations; see \[[https://arxiv.org/abs/2306.04146 Blowup analysis for a quasi-exact 1D model of 3D Euler and Navier-Stokes].
+- Characterization of blowup for reduced models of Euler equations, see \[[https://arxiv.org/abs/2306.04146 Blowup analysis for a quasi-exact 1D model of 3D Euler and Navier-Stokes].
 
 - Numerical investigation of blowup profiles using dynamic rescaling equations and neural networks, see \[[https://arxiv.org/abs/2211.15960 Fourier Continuation for Exact Derivative Computation in Physics-Informed Neural Operators]\].
 
