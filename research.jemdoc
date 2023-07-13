@@ -5,7 +5,7 @@
 
 === Blowup of Fluid Dynamics Models
 
-- Characterization of blowup for reduced models of Euler equations, see \[[https://arxiv.org/abs/2306.04146 Blowup analysis for a quasi-exact 1D model of 3D Euler and Navier-Stokes].
+- Characterization of blowup for reduced models of Euler equations, see \[[https://arxiv.org/abs/2306.04146 Blowup Analysis for a Quasi-exact 1D Model of 3D Euler and Navier-Stokes]\].
 
 - Numerical investigation of blowup profiles using dynamic rescaling equations and neural networks, see \[[https://arxiv.org/abs/2211.15960 Fourier Continuation for Exact Derivative Computation in Physics-Informed Neural Operators]\].
 
@@ -14,13 +14,13 @@
 
 === Multiscale Modeling
 
-- Model reduction and homogenization techinques in multiscale equation, see \[[https://epubs.siam.org/doi/abs/10.1137/20M1352922 Exponential Convergence for Multiscale Linear Elliptic PDEs via Adaptive Edge Basis Functions]\],  \[[https://arxiv.org/abs/2105.04080 Exponentially convergent multiscale methods for high frequency heterogeneous Helmholtz equations]\].
+- Model reduction and homogenization techinques in multiscale equation, see \[[https://epubs.siam.org/doi/abs/10.1137/20M1352922 Exponential Convergence for Multiscale Linear Elliptic PDEs via Adaptive Edge Basis Functions]\],  \[[https://epubs.siam.org/doi/10.1137/22M1507802 Exponentially Convergent Multiscale Methods for 2D High Frequency Heterogeneous Helmholtz Equations]\].
 
 - See also the review paper \[[https://link.springer.com/article/10.1007/s42967-023-00260-2 Exponentially Convergent Multiscale Finite Element Method]\].
 
 === Kinetic Equations
 
-- Hermite Spectral Method as equilibrium-preserving techniques for kinetic equations, see \[[https://epubs.siam.org/doi/abs/10.1137/18M1230268 Approximation to Singular Quadratic Collision Model in Fokker-Planck-Landau Equation]\].
+- Hermite Spectral Method as equilibrium-preserving techniques for kinetic equations, see \[[https://epubs.siam.org/doi/10.1137/18M1230268 Approximation to Singular Quadratic Collision Model in Fokker-Planck-Landau Equation]\].
 
 - Convergence and stability of nonlinear numerical schemes for kinetic equations.
 
@@ -28,6 +28,6 @@
 
 - Ensemble sampling method for inverse problems based on underdamped Langevin equation, see \[[https://arxiv.org/abs/2208.04506 Second Order Ensemble Langevin Method for Sampling and Inverse Problems]\].
 
-- Reduced approximation model for principal-component analysis based on operator approximation via the Schrödinger equation, see \[[https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.025307 Schrödinger principal-component analysis: On the duality between principal-component analysis and the Schrödinger equation]\].
+- Reduced approximation model for principal-component analysis based on operator approximation via the Schrödinger equation, see \[[https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.025307 Schrödinger Principal-component Analysis: On the Duality between Principal-component Analysis and the Schrödinger Equation]\].
 
 
