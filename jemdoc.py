@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """jemdoc version 0.7.3, 2012-11-27."""
 
@@ -51,14 +51,14 @@ def testeqsupport():
     msg += '  latex: not found.\n'
     supported = False
   else:
-    msg += '  latex: ' + p.stdout.readlines()[0].rstrip() + '.\n'
+    msg += '  latex: ' + p.stdout.readlines()[0].rstrip().decode("utf-8") + '.\n'
   p = Popen('dvipng --version', shell=True, stdout=PIPE, stderr=PIPE)
   rc = p.wait()
   if rc != 0:
     msg += '  dvipng: not found.\n'
     supported = False
   else:
-    msg += '  dvipng: ' + p.stdout.readlines()[0].rstrip() + '.\n'
+    msg += '  dvipng: ' + p.stdout.readlines()[0].rstrip().decode("utf-8") + '.\n'
 
   return (supported, msg[:-1])
 
@@ -962,16 +962,19 @@ def geneq(f, eq, dpi, wl, outname):
     # XXX hack.
     preamble += re.sub(r'\\(?=[{}])', '', p + '\n')
   preamble += '\pagestyle{empty}\n\\begin{document}\n'
-  g.write(preamble)
+  g.write(preamble.encode('utf-8'))
   
   # Write the equation itself.
   if wl:
-    g.write('\\[%s\\]' % eq)
+    to_write = '\\[%s\\]' % eq
+    g.write(to_write.encode('utf-8'))
   else:
-    g.write('$%s$' % eq)
+    to_write = '$%s$' % eq
+    g.write(to_write.encode('utf-8'))
 
   # Finish off the tex file.
-  g.write('\n\\newpage\n\end{document}')
+  to_write = '\n\\newpage\n\end{document}'
+  g.write(to_write.encode('utf-8'))
   g.close()
 
   exts = ['.tex', '.aux', '.dvi', '.log']
@@ -995,7 +998,7 @@ def geneq(f, eq, dpi, wl, outname):
     if rc != 0:
       print(p.stderr.readlines())
       raise Exception('dvipng error')
-    depth = int(p.stdout.readlines()[-1].split('=')[-1])
+    depth = int(p.stdout.readlines()[-1].split('='.encode('utf-8'))[-1])
   finally:
     # Clean up.
     for ext in exts:
@@ -1007,7 +1010,8 @@ def geneq(f, eq, dpi, wl, outname):
   if f.eqcache and eqname not in eqdepths:
     try:
       dc = open(os.path.join(f.eqdir, '.eqdepthcache'), 'ab')
-      dc.write(eqname + ' ' + str(depth) + '\n')
+      to_write = eqname + ' ' + str(depth) + '\n'      
+      dc.write(to_write.encode('utf-8'))
       dc.close()
     except IOError:
       print('eqdepthcache update failed.')
