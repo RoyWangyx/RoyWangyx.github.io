@@ -27,14 +27,17 @@ Fokker-Planck-Landau Equation,\n SIAM Journal on Scientific Computing, 42(3), 20
 \[[https://epubs.siam.org/doi/abs/10.1137/18M1230268 paper], [FPL.pdf slides]\]
 . Y. Chen, T.Y. Hou and Y. Wang. Exponential Convergence for Multiscale Linear Elliptic PDEs via Adaptive Edge Basis Functions, \n Multiscale Modeling and Simulation, 19(2), 2021, pp. 980–1010. 
 \[[https://epubs.siam.org/doi/abs/10.1137/20M1352922 paper]\]
-. Z. Liu, S. Qian, Y. Wang, Y. Yan and T Yang. Schrödinger Principal-component Analysis: On the Duality between Principal-component Analysis \n and the Schrödinger Equation, Physical Review E, 104(2), 2021, 025307. \[[https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.025307 paper], [Schrodinger_PCA.pptx slides]\]
+. Z. Liu, S. Qian, Y. Wang, Y. Yan and T Yang. Schrödinger Principal-component Analysis: On the Duality between Principal-component Analysis  and the Schrödinger Equation, \n Physical Review E, 104(2), 2021, 025307. \[[https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.025307 paper], [Schrodinger_PCA.pptx slides]\]
 . Y. Chen, T.Y. Hou and Y. Wang. Exponentially Convergent Multiscale Methods for 2D High Frequency Heterogeneous Helmholtz Equations, \n Multiscale Modeling and Simulation, 21(3), 2023, pp. 849–883. \[[https://epubs.siam.org/doi/10.1137/22M1507802 paper], [Helmholtz.pdf slides]\]
 . Z. Liu, A. Stuart and Y. Wang. (2022) Second Order Ensemble Langevin Method for Sampling and Inverse Problems, \n \[[https://arxiv.org/abs/2208.04506 arxiv], [EHMC.pdf slides]\]
 . H. Maust, Z. Li, Y. Wang, D. Leibovici, O. Bruno, T.Y. Hou and A. Anandkumar. Fourier Continuation for Exact Derivative Computation in Physics-Informed Neural Operators, \n NeurIPS 2022, 3rd AI for Science workshop. \[[https://arxiv.org/abs/2211.15960 arxiv], [FC-PINO-poster.pdf poster]\]
 . Y. Chen, T.Y. Hou and Y. Wang. Exponentially Convergent Multiscale Finite Element Method, \n Communications on Applied Mathematics and Computation, 6(2), 2024, 862-878. \[[https://link.springer.com/article/10.1007/s42967-023-00260-2 paper], [review_slides.pdf slides], [ExpMsFEM_poster.pdf poster]\]
 . T.Y. Hou and Y. Wang. Blowup Analysis for a Quasi-exact 1D Model of 3D Euler and Navier-Stokes, \n Nonlinearity, 37(3), 2024, 035001. \[[https://iopscience.iop.org/article/10.1088/1361-6544/ad1c2f/meta paper], [duke_yixuan.pdf slides]\]
 . T.Y. Hou, V.T. Nguyen and Y. Wang. (2024) L^2-based Stability of Blowup with Log Correction for semilinear Heat Equation, \n \[[https://arxiv.org/abs/2404.09410 arxiv]\]
-. Z. Liu, Y. Wang, S. Vaidya, F. Ruehle, J. Halverson, M. Soljacic, T.Y. Hou and M. Tegmark. (2024) KAN: Kolmogorov-Arnold Networks, \n \[[https://arxiv.org/abs/2404.19756 arxiv], [KAN_poster.pdf poster]\]
+. Z. Liu, Y. Wang, S. Vaidya, F. Ruehle, J. Halverson, M. Soljacic, T.Y. Hou and M. Tegmark. (2024) KAN: Kolmogorov-Arnold Networks, \n \[[https://arxiv.org/abs/2404.19756 arxiv], [KAN1.0+2.0.key slides], [KAN_poster.pdf poster], [https://www.scientificamerican.com/article/an-alternative-to-conventional-neural-networks-could-help-reveal-what-ai-is/  Scientific American], [https://spectrum.ieee.org/kan-neural-network IEEE Spectrum]\]
+. J. Chen, T.Y. Hou, V.T. Nguyen and Y. Wang. (2024) On the stability of blowup solutions to the complex Ginzburg-Landau equation in R^d, \n \[[https://arxiv.org/abs/2407.15812 arxiv], [Type-I_blowup.pdf slides]\]
+. Z. Liu, P. Ma, Y. Wang, W. Matusik and M. Tegmark. (2024) KAN 2.0: Kolmogorov-Arnold Networks Meet Science, \n \[[https://arxiv.org/abs/2408.10205 arxiv]\]
+
 
 [https://scholar.google.com/citations?user=eHu9XuUAAAAJ&hl=en Google Scholar]\n
 [Yixuan_Wang_CV.pdf CV]
