@@ -5,7 +5,7 @@
 
 === Singularity Formulation of PDEs
 
-- L^2 based stability for general type I blowup, see \[[https://arxiv.org/abs/2404.09410 L^2-based Stability of Blowup with Log Correction for semilinear Heat Equation]\].
+- L^2 based stability for general type I blowup, see \[[https://arxiv.org/abs/2404.09410 L^2-based Stability of Blowup with Log Correction for semilinear Heat Equation]\], \[[https://arxiv.org/abs/2407.15812 On the Stability of Blowup Solutions to the Complex Ginzburg-Landau Equation in R^d]\].
 
 - Characterization of blowup for reduced models of Euler equations, see \[[https://iopscience.iop.org/article/10.1088/1361-6544/ad1c2f/meta Blowup Analysis for a Quasi-exact 1D Model of 3D Euler and Navier-Stokes]\].
 
@@ -15,7 +15,7 @@
 
 === AI for Science (PDE)
 
-- New paradigm for neural network architecture, see \[[https://arxiv.org/abs/2404.19756 KAN: Kolmogorov-Arnold Networks]\].
+- KAN, new paradigm for neural network architecture, see \[[https://arxiv.org/abs/2404.19756 KAN: Kolmogorov-Arnold Networks]\], \[[https://arxiv.org/abs/2408.10205 KAN 2.0: Kolmogorov-Arnold Networks Meet Science]\].
 
 - Improved methods for operator learning, see \[[https://arxiv.org/abs/2211.15960 Fourier Continuation for Exact Derivative Computation in Physics-Informed Neural Operators]\].
 
@@ -35,4 +35,4 @@
 
 - Ensemble sampling method for inverse problems based on underdamped Langevin equation, see \[[https://arxiv.org/abs/2208.04506 Second Order Ensemble Langevin Method for Sampling and Inverse Problems]\].
 
-- Reduced approximation model for principal-component analysis based on operator approximation via the Schrödinger equation, see \[[https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.025307 Schrödinger principal-component analysis: On the duality between principal-component analysis and the Schrödinger equation]\].
+- Reduced approximation model for principal-component analysis based on operator approximation via the Schrödinger equation, see \[[https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.025307 Schrödinger Principal-Component Analysis: On the Duality between Principal-Component Analysis and the Schrödinger Equation]\].
