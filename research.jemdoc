@@ -15,7 +15,7 @@
 
 === AI for Science (PDE)
 
-- KAN, new paradigm for neural network architecture, see \[[https://arxiv.org/abs/2404.19756 KAN: Kolmogorov-Arnold Networks]\], \[[https://arxiv.org/abs/2408.10205 KAN 2.0: Kolmogorov-Arnold Networks Meet Science]\].
+- KAN, new paradigm for neural network architecture, see \[[https://arxiv.org/abs/2404.19756 KAN: Kolmogorov-Arnold Networks]\], \[[https://arxiv.org/abs/2408.10205 KAN 2.0: Kolmogorov-Arnold Networks Meet Science]\], \[[https://arxiv.org/abs/2410.01803 On the expressiveness and spectral bias of KANs]\].
 
 - Improved methods for operator learning, see \[[https://arxiv.org/abs/2211.15960 Fourier Continuation for Exact Derivative Computation in Physics-Informed Neural Operators]\].
 
