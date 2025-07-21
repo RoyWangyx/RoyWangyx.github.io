@@ -3,21 +3,21 @@
 
 == Research Highlights
 
-=== Singularity Formulation of PDEs
+=== Singularity Formation of PDEs
 
-- L^2 based stability for general type I blowup, see \[[https://arxiv.org/abs/2404.09410 L^2-based Stability of Blowup with Log Correction for semilinear Heat Equation]\], \[[https://arxiv.org/abs/2407.15812 On the Stability of Blowup Solutions to the Complex Ginzburg-Landau Equation in R^d]\].
+- L^2 based stability for general type I blowup, see \[[https://arxiv.org/abs/2404.09410 L^2-based Stability of Blowup with Log Correction for semilinear Heat Equation]\], \[[https://arxiv.org/abs/2407.15812 On the Stability of Blowup Solutions to the Complex Ginzburg-Landau Equation in R^d]\], \[[https://arxiv.org/abs/2504.12231 Finite Time Blowup for Keller-Segel Equation with Logistic Damping in Three Dimensions]\].
 
 - Characterization of blowup for reduced models of Euler equations, see \[[https://iopscience.iop.org/article/10.1088/1361-6544/ad1c2f/meta Blowup Analysis for a Quasi-exact 1D Model of 3D Euler and Navier-Stokes]\].
 
-- Numerical investigation of blowup profiles using dynamic rescaling equations and neural networks, see \[[https://arxiv.org/abs/2211.15960 Fourier Continuation for Exact Derivative Computation in Physics-Informed Neural Operators]\].
+- Numerical investigation of blowup profiles using dynamic rescaling equations and neural networks, see \[[https://arxiv.org/abs/2211.15960 Fourier Continuation for Exact Derivative Computation in Physics-Informed Neural Operators]\], \[[https://arxiv.org/abs/2506.19243 High Precision PINNs in Unbounded Domains: Application to Singularity Formulation in PDEs]\].
 
 - Numerical profile construction and computer-assisted proof for singularity.
 
 === AI for Science (PDE)
 
-- KAN, new paradigm for neural network architecture, see \[[https://openreview.net/forum?id=Ozo7qJ5vZi KAN: Kolmogorov-Arnold Networks]\], \[[https://arxiv.org/abs/2408.10205 KAN 2.0: Kolmogorov-Arnold Networks Meet Science]\], \[[https://openreview.net/forum?id=ydlDRUuGm9 On the expressiveness and spectral bias of KANs]\].
+- KAN, new paradigm for neural network architecture, see \[[https://openreview.net/forum?id=Ozo7qJ5vZi KAN: Kolmogorov-Arnold Networks]\], \[[https://arxiv.org/abs/2408.10205 KAN 2.0: Kolmogorov-Arnold Networks Meet Science]\], \[[https://openreview.net/forum?id=ydlDRUuGm9 On the Expressiveness and Spectral Bias of KANs]\].
 
-- Improved methods for operator learning, see \[[https://arxiv.org/abs/2211.15960 Fourier Continuation for Exact Derivative Computation in Physics-Informed Neural Operators]\], \[[https://openreview.net/forum?id=9nt0jI0Dp2 Scale-consistent learning with neural operators]\].
+- Improved methods for operator learning, see \[[https://arxiv.org/abs/2211.15960 Fourier Continuation for Exact Derivative Computation in Physics-Informed Neural Operators]\], \[[https://openreview.net/forum?id=9nt0jI0Dp2 Scale-consistent Learning with Neural Operators]\].
 
 === Multiscale Modeling
 

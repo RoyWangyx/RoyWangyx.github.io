@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{bio.jpg}{photo}{135px}{200px}{}
-G5 PhD candidate,\n [http://www.cms.caltech.edu/ Applied \+ Computational Mathematics], \n[https://www.caltech.edu/ California Institute of Technology (Caltech)]\n 
+Final year PhD,\n [http://www.cms.caltech.edu/ Applied \+ Computational Mathematics], \n[https://www.caltech.edu/ California Institute of Technology (Caltech)]\n 
 E-mail: /roywang/ \[@\] caltech \[dot\] edu.
 ~~~
 
@@ -29,18 +29,18 @@ Fokker-Planck-Landau Equation,\n SIAM Journal on Scientific Computing, 42(3), 20
 \[[https://epubs.siam.org/doi/abs/10.1137/20M1352922 paper]\]
 . Z. Liu, S. Qian, Y. Wang, Y. Yan and T Yang. Schrödinger Principal-component Analysis: On the Duality between Principal-component Analysis  and the Schrödinger Equation, \n Physical Review E, 104(2), 2021, 025307. \[[https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.025307 paper], [Schrodinger_PCA.pptx slides]\]
 . Y. Chen, T.Y. Hou and Y. Wang. Exponentially Convergent Multiscale Methods for 2D High Frequency Heterogeneous Helmholtz Equations, \n Multiscale Modeling and Simulation, 21(3), 2023, pp. 849–883. \[[https://epubs.siam.org/doi/10.1137/22M1507802 paper], [Helmholtz.pdf slides]\]
-. Z. Liu, A. Stuart and Y. Wang. (2022) Second Order Ensemble Langevin Method for Sampling and Inverse Problems, \n to appear in Communications in Mathematical Sciences. \[[https://arxiv.org/abs/2208.04506 arxiv], [EHMC.pdf slides]\]
+. Z. Liu, A. Stuart and Y. Wang. Second Order Ensemble Langevin Method for Sampling and Inverse Problems, \n Communications in Mathematical Sciences, 23(5), 2025, 1299-1317. \[[https://link.intlpress.com/JDetail/1923413778629124098 paper], [EHMC.pdf slides]\]
 . H. Maust, Z. Li, Y. Wang, D. Leibovici, O. Bruno, T.Y. Hou and A. Anandkumar. Fourier Continuation for Exact Derivative Computation in Physics-Informed Neural Operators, \n NeurIPS 2022, 3rd AI for Science workshop. \[[https://arxiv.org/abs/2211.15960 arxiv], [FC-PINO-poster.pdf poster]\]
 . Y. Chen, T.Y. Hou and Y. Wang. Exponentially Convergent Multiscale Finite Element Method, \n Communications on Applied Mathematics and Computation, 6(2), 2024, 862-878. \[[https://link.springer.com/article/10.1007/s42967-023-00260-2 paper], [review_slides.pdf slides], [ExpMsFEM_poster.pdf poster]\]
 . T.Y. Hou and Y. Wang. Blowup Analysis for a Quasi-exact 1D Model of 3D Euler and Navier-Stokes, \n Nonlinearity, 37(3), 2024, 035001. \[[https://iopscience.iop.org/article/10.1088/1361-6544/ad1c2f/meta paper], [duke_yixuan.pdf slides]\]
-. T.Y. Hou, V.T. Nguyen and Y. Wang. (2024) L^2-based Stability of Blowup with Log Correction for semilinear Heat Equation, \n \[[https://arxiv.org/abs/2404.09410 arxiv]\]
+. T.Y. Hou, V.T. Nguyen and Y. Wang. (2024) L^2-based Stability of Blowup with Log Correction for Semilinear Heat Equation, \n \[[https://arxiv.org/abs/2404.09410 arxiv]\]
 . Z. Liu, Y. Wang, S. Vaidya, F. Ruehle, J. Halverson, M. Soljacic, T.Y. Hou and M. Tegmark. KAN: Kolmogorov-Arnold Networks, \n ICLR 2025 Oral. \[[https://openreview.net/forum?id=Ozo7qJ5vZi paper], [KAN_iclr.key slides], [poster_iclr.pdf poster], [https://www.scientificamerican.com/article/an-alternative-to-conventional-neural-networks-could-help-reveal-what-ai-is/  Scientific American], [https://spectrum.ieee.org/kan-neural-network IEEE Spectrum], [https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/ Quanta], [https://www.technologyreview.com/2024/08/30/1103385/a-new-way-to-build-neural-networks-could-make-ai-more-understandable/ MIT Technology Review]\]
-. J. Chen, T.Y. Hou, V.T. Nguyen and Y. Wang. (2024) On the stability of blowup solutions to the complex Ginzburg-Landau equation in R^d, \n \[[https://arxiv.org/abs/2407.15812 arxiv], [Type-I_blowup.pdf slides]\]
+. J. Chen, T.Y. Hou, V.T. Nguyen and Y. Wang. (2024) On the Stability of Blowup Solutions to the Complex Ginzburg-Landau Equation in R^d, \n \[[https://arxiv.org/abs/2407.15812 arxiv], [Type-I_blowup.pdf slides]\]
 . Z. Liu, P. Ma, Y. Wang, W. Matusik and M. Tegmark. (2024) KAN 2.0: Kolmogorov-Arnold Networks Meet Science, \n \[[https://arxiv.org/abs/2408.10205 arxiv]\]
-. Y. Wang, J.W. Siegel, Z. Liu and T.Y. Hou. On the expressiveness and spectral bias of KANs, \n ICLR 2025. \[[https://openreview.net/forum?id=ydlDRUuGm9 paper], [KAN_spectral_bias_iclr.key slides], [poster_spectral_bias_iclr.pdf poster]\]
-. Z. Li, S. Lanthaler, C. Deng, Y. Wang, K. Azizzadenesheli and A. Anandkumar. Scale-consistent learning with neural operators, \n Neurips 2024, Workshop Foundation Models for Science: Progress, Opportunities, and Challenges. \[[https://openreview.net/forum?id=9nt0jI0Dp2 paper]\]
-
-
+. Y. Wang, J.W. Siegel, Z. Liu and T.Y. Hou. On the Expressiveness and Spectral Bias of KANs, \n ICLR 2025. \[[https://openreview.net/forum?id=ydlDRUuGm9 paper], [KAN_spectral_bias_iclr.key slides], [poster_spectral_bias_iclr.pdf poster]\]
+. Z. Li, S. Lanthaler, C. Deng, Y. Wang, K. Azizzadenesheli and A. Anandkumar. Scale-consistent Learning with Neural Operators, \n Neurips 2024, Workshop Foundation Models for Science: Progress, Opportunities, and Challenges. \[[https://openreview.net/forum?id=9nt0jI0Dp2 paper]\]
+. J. Liu, Y. Wang, and T. Zhou. (2025) Finite Time Blowup for Keller-Segel Equation with Logistic Damping in Three Dimensions, \n \[[https://arxiv.org/abs/2504.12231 arxiv]\]
+. Y. Wang, Z. Liu, Z. Li, A. Anandkumar, and T.Y. Hou. (2025) High Precision PINNs in Unbounded Domains: Application to Singularity Formulation in PDEs, \n \[[https://arxiv.org/abs/2506.19243 arxiv]\]
 
 [https://scholar.google.com/citations?user=eHu9XuUAAAAJ&hl=en Google Scholar]\n
 [Yixuan_Wang_CV.pdf CV]
