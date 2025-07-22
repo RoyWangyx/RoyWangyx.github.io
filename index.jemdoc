@@ -3,13 +3,14 @@
 
 ~~~
 {}{img_left}{bio.jpg}{photo}{135px}{200px}{}
-Final year PhD,\n [http://www.cms.caltech.edu/ Applied \+ Computational Mathematics], \n[https://www.caltech.edu/ California Institute of Technology (Caltech)]\n 
+Final year PhD,\n [http://www.cms.caltech.edu/ Computing  \+ Mathematical Sciences], \n[https://www.caltech.edu/ California Institute of Technology (Caltech)]\n 
 E-mail: /roywang/ \[@\] caltech \[dot\] edu.
 ~~~
 
 == About Me
 I received a B.S. degree in mathematics /summa cum laude/ from [http://english.pku.edu.cn/  Peking University (PKU)], in 2020. My undergraduate supervisor is [http://dsec.pku.edu.cn/~rli/ Prof. Ruo Li]. \n
-My graduate supervisor is [http://users.cms.caltech.edu/~hou/ Prof. Thomas Yizhao Hou]. I also work with [http://tensorlab.cms.caltech.edu/users/anima/ Prof. Anima Anandkumar] and [http://stuart.caltech.edu/ Prof. Andrew Stuart]. Check out my [Candidacy.pdf candidacy slides].
+My graduate supervisor is [http://users.cms.caltech.edu/~hou/ Prof. Thomas Yizhao Hou]. I also work with [http://tensorlab.cms.caltech.edu/users/anima/ Prof. Anima Anandkumar] and [http://stuart.caltech.edu/ Prof. Andrew Stuart]. Check out my [Candidacy.pdf candidacy slides]. \n
+I am on the job market this year!
 
 == Research
 My research interests broadly lie in 
@@ -17,6 +18,10 @@ My research interests broadly lie in
 - Partial Differential Equation
 - Applied Probability
 - AI for Science
+
+I develop analytical and computational frameworks for understanding singularity formation in PDEs, motivated by the Clay prize problem on blowup of Navier-Stokes equations. I build systematic proofs inspired by numeric and amenable to computer-assisted verification, design high-precision machine learning tools, including neural networks and neural operators, and pioneer Kolmogorov–Arnold Network (KAN) for broad application to AI.
+
+Citations: 2081 as of July 20, 2025
 
 Actively looking for discussions and possible collaborations on interesting topics.
 
